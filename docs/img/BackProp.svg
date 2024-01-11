@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
-   sodipodi:docname="message.svg"
+   sodipodi:docname="BackProp.svg"
    inkscape:export-filename="C:\Users\jules\Desktop\darling\NeuralNetworks\Illustrations\Neuron.png"
    inkscape:export-xdpi="750"
    inkscape:export-ydpi="750"
@@ -27,9 +27,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="804"
-     inkscape:cy="326.5"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="725.49156"
+     inkscape:cy="338.70415"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
@@ -303,7 +303,7 @@
        x2="431.00626"
        y2="127"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(7.4083337,0.52916666)" />
+       gradientTransform="translate(-129.53349,-1.3871153)" />
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -730,15 +730,15 @@
          y="93.130821">ΣΔ</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:14.1111px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial Heavy';fill:url(#linearGradient254827);fill-opacity:1;stroke-width:0.264583"
-       x="230.1875"
-       y="128.58749"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:12.7px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient254827);fill-opacity:1;stroke-width:0.264583"
+       x="93.245682"
+       y="126.67121"
        id="text246583"><tspan
          sodipodi:role="line"
          id="tspan246581"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:14.1111px;font-family:Arial;-inkscape-font-specification:'Arial Heavy';fill:url(#linearGradient254827);fill-opacity:1;stroke-width:0.264583"
-         x="230.1875"
-         y="128.58749">train/learn</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:12.7px;font-family:Arial;-inkscape-font-specification:'Arial, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:url(#linearGradient254827);fill-opacity:1;stroke-width:0.264583"
+         x="93.245682"
+         y="126.67121">train/learn</tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
