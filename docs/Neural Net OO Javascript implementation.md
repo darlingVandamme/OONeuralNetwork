@@ -147,7 +147,7 @@ Obviously, at the basis of the code is the Neuron class.
 
 The Neuron class keeps the values (outputvalue a and z), the neurons' bias and a list of connections to the previous and next layer.
 
-![](./img/Neuron.svg)
+![](./img/Neuron2.svg)
 
 ```javascript
 let neurons = 0
