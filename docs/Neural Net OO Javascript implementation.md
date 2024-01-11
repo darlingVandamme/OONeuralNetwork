@@ -3,7 +3,8 @@
 The basic concept of a Neural Network fits so nicely into the object-oriented programming paradigm and yet
 most of the sample code we find online in tutorials looks ugly, old-fashioned procedural and difficult to read.  
 
-[picture]
+![Dall-e impression about the subject](./img/OONeural2.png)
+
 Let's see if we can build a nice, clean Object-Oriented Neural Network from scratch.
 
 I already learned the basics of neural networks in the early 1990's 
