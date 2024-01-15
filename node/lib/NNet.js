@@ -42,7 +42,7 @@ class NNet{
         this.count++
         this.reset()
         this.input.forEach((n,i)=> {n.value = input[i]})
-        this.neurons.forEach((n, i)=>{n.ff()})
+        this.neurons.forEach((n, i)=>{n.feedForward()})
     }
 
     getOutput(){

@@ -43,7 +43,7 @@ class Neuron {
         return this.in.map((c) => c.in.id);
     }
 
-    ff(){
+    feedForward(){
         this.z = this.in.reduce((previous, conn) => previous + (conn.weight * conn.in.getValue())
         , this.bias)
         this.value = this.activate(this.z) // sigmoid
@@ -51,7 +51,7 @@ class Neuron {
 
     getValue(){
         if (this.value === null){
-            this.ff()
+            this.feedForward()
         }
         return this.value
     }
